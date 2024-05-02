@@ -64,5 +64,15 @@
           "goal5": "Desarrollar habilidades para analizar problemas, descomponerlos en componentes más pequeños, y proponer soluciones mediante la programación.",
           "goal6": "Ser capaz de diseñar y desarrollar aplicaciones complejas que puedan abordar problemas del mundo real, utilizando un enfoque estructurado y modular."
         }
+      ],
+    "information-patient": [
+        {
+          "id": 1,
+          "Nombres": "Alison Gomez", 
+          "Edad": "19 años",
+          "correo": "alisongomezqy@hotmail.com",
+          "DNI": "758953412",
+          "Telefono": "935 789 111"
+        }
       ]
 }
